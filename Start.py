@@ -41,3 +41,9 @@ a = 3 ** 3
 print(a)
 a = 10 ** 6
 print(a)
+
+a = 2 + 3 * 4
+print(a)
+
+a = (2 + 3) * 4
+print(a)
