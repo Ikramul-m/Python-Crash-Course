@@ -14,3 +14,5 @@ message = "Hello, " + full_name.title() + "!"
 print(message)
 
 print("\tPython")
+
+print("Languages:\nPython\nC\nJavaScript")
