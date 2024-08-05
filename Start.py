@@ -26,3 +26,12 @@ print(favourate_language.lstrip())
 message = "One of Python's strengths is its diverse community."
 # message = 'One of Python's strengths is its diverse community.'
 print(message)
+
+a = 2 + 3
+print(a)
+a = 3 - 2
+print(a)
+a = 3 * 2
+print(a)
+a = 3 / 2
+print(a)
