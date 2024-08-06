@@ -52,6 +52,8 @@ age = 23
 message = "Happy " + str(age) + "rd Birthday!"
 print(message)
 
+
+
 bicycles = ['trek', 'cannodale', 'redline', 'specialized']
 print(bicycles)
 print(bicycles[0])
@@ -69,4 +71,6 @@ print(motorcycles)
 motorcycles[0] = 'ducati'
 print(motorcycles)
 motorcycles.append("pulsur")
+motorcycles.append("yamaha")
+motorcycles.append("ktm")
 print(motorcycles)
