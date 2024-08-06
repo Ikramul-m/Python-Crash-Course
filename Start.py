@@ -51,3 +51,7 @@ print(a)
 age = 23
 message = "Happy " + str(age) + "rd Birthday!"
 print(message)
+
+bicycles = ['trek' , 'cannodale' , 'redline']
+print(bicycles)
+print(bicycles[0])
