@@ -62,3 +62,11 @@ print(bicycles[-3].title())
 
 message = "My first bicycle was a " + bicycles[0].title() + "."
 print(message)
+
+motorcycles = ['honda', 'yamaha', 'suzuki']
+print(motorcycles)
+
+motorcycles[0] = 'ducati'
+print(motorcycles)
+motorcycles.append("pulsur")
+print(motorcycles)
