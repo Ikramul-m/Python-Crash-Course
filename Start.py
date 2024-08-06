@@ -74,3 +74,6 @@ motorcycles.append("pulsur")
 motorcycles.append("yamaha")
 motorcycles.append("ktm")
 print(motorcycles)
+
+del motorcycles[0]
+print(motorcycles)
