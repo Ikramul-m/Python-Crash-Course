@@ -52,7 +52,7 @@ age = 23
 message = "Happy " + str(age) + "rd Birthday!"
 print(message)
 
-bicycles = ['trek' , 'cannodale' , 'redline']
+bicycles = ['trek', 'cannodale', 'redline', 'specialized']
 print(bicycles)
 print(bicycles[0])
 print(bicycles[0].title())
