@@ -47,3 +47,7 @@ print(a)
 
 a = (2 + 3) * 4
 print(a)
+
+age = 23
+message = "Happy " + str(age) + "rd Birthday!"
+print(message)
