@@ -77,3 +77,5 @@ print(motorcycles)
 
 del motorcycles[0]
 print(motorcycles)
+motorcycles.pop()
+print(motorcycles)
